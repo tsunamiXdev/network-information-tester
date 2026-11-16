@@ -1,0 +1,4 @@
+interface:
+  display_name: "Network Information Tester"
+  short_description: "Check IP, WebRTC and DNS; save a compact snapshot"
+  default_prompt: "Use $network-information-tester to check this browser’s IP, WebRTC and DNS and save a compact network snapshot."
